@@ -1,4 +1,4 @@
-# Employee Data Analytics & Business Insights (Python)
+# Employee Data Analytics & Workforce Insights (Python)
 
 ## Overview
 
